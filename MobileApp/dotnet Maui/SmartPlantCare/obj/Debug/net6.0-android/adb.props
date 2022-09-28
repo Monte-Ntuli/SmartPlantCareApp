@@ -1,2 +1,2 @@
-AdbTarget=-s TRJDU19926000767
+AdbTarget=-s emulator-5554
 AdbOptions=
