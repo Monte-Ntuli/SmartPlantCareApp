@@ -1,4 +1,7 @@
-﻿obj\Debug\net6.0-android\resizetizer\r\drawable\login_image.png
+﻿obj\Debug\net6.0-android\resizetizer\r\drawable\forgot_password_image.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\login_image.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\register_image.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\register_verification.png
 obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
 obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\splash.png
 obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png

@@ -12,32 +12,41 @@
 
             <Image Source="login_image" HeightRequest="150" WidthRequest="150"/>
             <VerticalStackLayout Spacing="5">
-                <Label Text="Welcome to WapPlant" FontSize="28" TextColor="Black" HorizontalTextAlignment="Center" />
+                <Label Text="Smart Plant Care" FontSize="28" TextColor="Black" HorizontalTextAlignment="Center" />
             </VerticalStackLayout>
             
             <StackLayout>
                 <Frame HasShadow="True" BorderColor="White" HeightRequest="35" HorizontalOptions="FillAndExpand">
-                    <Entry Margin="20,0,0,0" VerticalOptions="Center" Placeholder="Username" Keyboard="Email" />
+                    <Entry Text="{Binding UserName}" Margin="20,0,0,0" VerticalOptions="Center" Placeholder="Username" Keyboard="Email" />
                 </Frame>
             </StackLayout>
             <StackLayout>
                 <Frame HasShadow="True" BorderColor="White" HeightRequest="35">
-                    <Entry Margin="20,0,0,0" VerticalOptions="Center" Placeholder="Password" IsPassword="True" Keyboard="Email" />
+                    <Entry Text="{Binding PassWord}" Margin="20,0,0,0" VerticalOptions="Center" Placeholder="Password" IsPassword="True" Keyboard="Email" />
                 </Frame>
             </StackLayout>
             <HorizontalStackLayout Spacing="10">
                 <CheckBox />
                 <Label Text="Remeber Me" VerticalOptions="Center" TextColor="LightGray"/>
                 <StackLayout VerticalOptions="Center" Spacing="5">
-                    <Label Text="Forgot Password?" VerticalOptions="Center" TextColor="LimeGreen" Padding="20"/>
+                    <Button Text="Forgot Password?" TextColor="LimeGreen" BackgroundColor="White"
+                    x:Name="btnForgotPassword"
+                    Clicked="btnForgotPassword_Clicked"/>
+
                 </StackLayout>
             </HorizontalStackLayout>
 
-            <Button Text="Sign In" BackgroundColor="LimeGreen"/>
+            <Button Text="Sign In" BackgroundColor="LimeGreen"
+                    x:Name="btnLogin"
+                    Clicked="btnLogin_Clicked"/>
 
-            <HorizontalStackLayout Spacing="10">
+            <HorizontalStackLayout Spacing="50" HorizontalOptions="Center">
                 <Label Text="Dont have an Account?" TextColor="Black"/>
-                <Label Text="Register now" TextColor="LimeGreen"/>
+                <Button 
+                    Text="Register now" TextColor="LimeGreen" BackgroundColor="White" 
+                    x:Name="btnRegister"
+                    Clicked="btnRegister_Clicked"
+                />
             </HorizontalStackLayout>
 
         </VerticalStackLayout>

@@ -195,6 +195,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -2136,6 +2149,19 @@
         "runtime": {
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -4083,6 +4109,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -6024,6 +6063,19 @@
         "runtime": {
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -7971,6 +8023,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -9721,7 +9786,7 @@
         }
       }
     },
-    "net6.0-android31.0/ios-arm64": {
+    "net6.0-android31.0/iossimulator-x64": {
       "GoogleGson/2.9.0.1": {
         "type": "package",
         "compile": {
@@ -9912,6 +9977,19 @@
         "runtime": {
           "lib/net6.0-android30.0/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -11859,6 +11937,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -13803,6 +13894,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -15725,6 +15829,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -15938,6 +16055,19 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -16157,6 +16287,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -16370,6 +16513,19 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -16589,6 +16745,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -16633,7 +16802,7 @@
         }
       }
     },
-    "net6.0-ios15.4/ios-arm64": {
+    "net6.0-ios15.4/iossimulator-x64": {
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -16802,6 +16971,19 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -17021,6 +17203,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -17234,6 +17429,19 @@
         "runtime": {
           "lib/net6.0-ios13.6/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -17453,6 +17661,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -17666,6 +17887,19 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -17885,6 +18119,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -18098,6 +18345,19 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -18317,6 +18577,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -18361,7 +18634,7 @@
         }
       }
     },
-    "net6.0-maccatalyst15.4/ios-arm64": {
+    "net6.0-maccatalyst15.4/iossimulator-x64": {
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -18530,6 +18803,19 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -18749,6 +19035,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -18962,6 +19261,19 @@
         "runtime": {
           "lib/net6.0-maccatalyst13.5/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -19226,6 +19538,19 @@
         "runtime": {
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -19556,6 +19881,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
         "build": {
@@ -19866,6 +20204,19 @@
         "runtime": {
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -20182,6 +20533,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
         "build": {
@@ -20495,6 +20859,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
         "build": {
@@ -20602,7 +20979,7 @@
         }
       }
     },
-    "net6.0-windows10.0.19041/ios-arm64": {
+    "net6.0-windows10.0.19041/iossimulator-x64": {
       "Microsoft.Extensions.Configuration/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -20805,6 +21182,19 @@
         "runtime": {
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -21121,6 +21511,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
         "type": "package",
         "build": {
@@ -21434,6 +21837,19 @@
         "runtime": {
           "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -21870,6 +22286,32 @@
         "lib/net6.0-windows10.0.18362/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.pdb",
         "microsoft.maui.graphics.win2d.winui.desktop.6.0.403.nupkg.sha512",
         "microsoft.maui.graphics.win2d.winui.desktop.nuspec"
+      ]
+    },
+    "Microsoft.Toolkit.Mvvm/7.1.2": {
+      "sha512": "tUQn6ar9oP7kmYaZ6pWabxpQaqw95Bsf+GG7prEL0y5MV5F60z76lI/Ppps9zcTqwd7e5CrdZBcdfor9WuvohA==",
+      "type": "package",
+      "path": "microsoft.toolkit.mvvm/7.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "License.md",
+        "ThirdPartyNotices.txt",
+        "analyzers/dotnet/cs/Microsoft.Toolkit.Mvvm.SourceGenerators.dll",
+        "analyzers/dotnet/cs/Microsoft.Toolkit.Mvvm.SourceGenerators.pdb",
+        "analyzers/dotnet/cs/Microsoft.Toolkit.Mvvm.SourceGenerators.xml",
+        "lib/net5.0/Microsoft.Toolkit.Mvvm.dll",
+        "lib/net5.0/Microsoft.Toolkit.Mvvm.pdb",
+        "lib/net5.0/Microsoft.Toolkit.Mvvm.xml",
+        "lib/netstandard2.0/Microsoft.Toolkit.Mvvm.dll",
+        "lib/netstandard2.0/Microsoft.Toolkit.Mvvm.pdb",
+        "lib/netstandard2.0/Microsoft.Toolkit.Mvvm.xml",
+        "lib/netstandard2.1/Microsoft.Toolkit.Mvvm.dll",
+        "lib/netstandard2.1/Microsoft.Toolkit.Mvvm.pdb",
+        "lib/netstandard2.1/Microsoft.Toolkit.Mvvm.xml",
+        "microsoft.toolkit.mvvm.7.1.2.nupkg.sha512",
+        "microsoft.toolkit.mvvm.nuspec"
       ]
     },
     "Microsoft.Windows.SDK.BuildTools/10.0.22000.194": {
@@ -24548,21 +24990,25 @@
   "projectFileDependencyGroups": {
     "net6.0-android31.0": [
       "Microsoft.Maui.Dependencies >= 6.0.486",
-      "Microsoft.Maui.Extensions >= 6.0.486"
+      "Microsoft.Maui.Extensions >= 6.0.486",
+      "Microsoft.Toolkit.Mvvm >= 7.1.2"
     ],
     "net6.0-ios15.4": [
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
+      "Microsoft.Toolkit.Mvvm >= 7.1.2",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-maccatalyst15.4": [
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
+      "Microsoft.Toolkit.Mvvm >= 7.1.2",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-windows10.0.19041": [
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
+      "Microsoft.Toolkit.Mvvm >= 7.1.2",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194"
     ]
   },
@@ -24636,6 +25082,10 @@
             "target": "Package",
             "version": "[6.0.486, )",
             "autoReferenced": true
+          },
+          "Microsoft.Toolkit.Mvvm": {
+            "target": "Package",
+            "version": "[7.1.2, )"
           }
         },
         "imports": [
@@ -24680,6 +25130,10 @@
             "target": "Package",
             "version": "[6.0.486, )",
             "autoReferenced": true
+          },
+          "Microsoft.Toolkit.Mvvm": {
+            "target": "Package",
+            "version": "[7.1.2, )"
           },
           "System.Runtime.InteropServices.NFloat.Internal": {
             "target": "Package",
@@ -24730,6 +25184,10 @@
             "version": "[6.0.486, )",
             "autoReferenced": true
           },
+          "Microsoft.Toolkit.Mvvm": {
+            "target": "Package",
+            "version": "[7.1.2, )"
+          },
           "System.Runtime.InteropServices.NFloat.Internal": {
             "target": "Package",
             "version": "[6.0.1, )",
@@ -24779,6 +25237,10 @@
             "target": "Package",
             "version": "[6.0.486, )",
             "autoReferenced": true
+          },
+          "Microsoft.Toolkit.Mvvm": {
+            "target": "Package",
+            "version": "[7.1.2, )"
           },
           "Microsoft.Windows.SDK.BuildTools": {
             "suppressParent": "All",
@@ -24849,7 +25311,7 @@
       "android-x86": {
         "#import": []
       },
-      "ios-arm64": {
+      "iossimulator-x64": {
         "#import": []
       },
       "maccatalyst-x64": {

@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[6.0.486, )",
               "autoReferenced": true
+            },
+            "Microsoft.Toolkit.Mvvm": {
+              "target": "Package",
+              "version": "[7.1.2, )"
             }
           },
           "imports": [
@@ -114,6 +118,10 @@
               "target": "Package",
               "version": "[6.0.486, )",
               "autoReferenced": true
+            },
+            "Microsoft.Toolkit.Mvvm": {
+              "target": "Package",
+              "version": "[7.1.2, )"
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
@@ -164,6 +172,10 @@
               "version": "[6.0.486, )",
               "autoReferenced": true
             },
+            "Microsoft.Toolkit.Mvvm": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
               "version": "[6.0.1, )",
@@ -213,6 +225,10 @@
               "target": "Package",
               "version": "[6.0.486, )",
               "autoReferenced": true
+            },
+            "Microsoft.Toolkit.Mvvm": {
+              "target": "Package",
+              "version": "[7.1.2, )"
             },
             "Microsoft.Windows.SDK.BuildTools": {
               "suppressParent": "All",
@@ -283,7 +299,7 @@
         "android-x86": {
           "#import": []
         },
-        "ios-arm64": {
+        "iossimulator-x64": {
           "#import": []
         },
         "maccatalyst-x64": {

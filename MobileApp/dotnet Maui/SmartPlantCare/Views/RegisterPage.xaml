@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SmartPlantCare.Views.RegisterPage"
+             Shell.NavBarIsVisible="False">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Image Source="register_image" HeightRequest="250" WidthRequest="250"/>
+            <VerticalStackLayout Spacing="5">
+                <Label Text="Let's Join Our Community" FontSize="28" TextColor="Black" HorizontalTextAlignment="Center" />
+            </VerticalStackLayout>
+
+            <StackLayout>
+                <Frame HasShadow="True" BorderColor="White" HeightRequest="35" HorizontalOptions="FillAndExpand">
+                    <Entry Text="" Margin="20,0,0,0" VerticalOptions="Center" Placeholder="Email" Keyboard="Email" />
+                </Frame>
+            </StackLayout>
+            <StackLayout>
+                <Frame HasShadow="True" BorderColor="White" HeightRequest="35">
+                    <Entry Text="" Margin="20,0,0,0" VerticalOptions="Center" Placeholder="Password" IsPassword="True" Keyboard="Email" />
+                </Frame>
+            </StackLayout>
+            <StackLayout>
+                <Frame HasShadow="True" BorderColor="White" HeightRequest="35">
+                    <Entry Text="" Margin="20,0,0,0" VerticalOptions="Center" Placeholder="Retype Password" IsPassword="True" Keyboard="Email" />
+                </Frame>
+            </StackLayout>
+
+            <Button Text="Register" FontSize="18" BackgroundColor="LimeGreen"
+                    x:Name="btnRegister"
+                    Clicked="btnRegister_Clicked"/>
+
+            <HorizontalStackLayout Spacing="50" HorizontalOptions="Center">
+                <Label Text="Already have an Account?" TextColor="Black"/>
+                <Button 
+                    Text="Login now" TextColor="LimeGreen" BackgroundColor="White" 
+                    x:Name="btnLogin"
+                    Clicked="btnLogin_Clicked"
+                />
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    
+    </ScrollView>
+</ContentPage>

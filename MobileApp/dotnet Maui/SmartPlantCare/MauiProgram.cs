@@ -1,4 +1,7 @@
-﻿namespace SmartPlantCare;
+﻿using SmartPlantCare.ViewModel;
+using SmartPlantCare.Views;
+
+namespace SmartPlantCare;
 
 public static class MauiProgram
 {
@@ -13,6 +16,12 @@ public static class MauiProgram
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
 			});
 
-		return builder.Build();
+		Routing.RegisterRoute("register", typeof(RegisterPage));
+		Routing.RegisterRoute("login", typeof(MainPage));
+        Routing.RegisterRoute("registerVerification", typeof(RegisterVerificationPage));
+        Routing.RegisterRoute("forgot", typeof(ForgotPasswordPage));
+		Routing.RegisterRoute("home", typeof(HomePlantPage));
+
+        return builder.Build();
 	}
 }

@@ -38,3 +38,27 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SmartPlantCare.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/E7240/Documents/GitHub/SmartPlantCareApp/MobileApp/dotnet Maui/SmartPlantCare/Views/ForgotPasswordPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SmartPlantCare.Views.ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ForgotPasswordPage.xaml
+
+[C:/Users/E7240/Documents/GitHub/SmartPlantCareApp/MobileApp/dotnet Maui/SmartPlantCare/Views/HomePlantPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SmartPlantCare.Views.HomePlantPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomePlantPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomePlantPage.xaml
+
+[C:/Users/E7240/Documents/GitHub/SmartPlantCareApp/MobileApp/dotnet Maui/SmartPlantCare/Views/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SmartPlantCare.Views.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RegisterPage.xaml
+
+[C:/Users/E7240/Documents/GitHub/SmartPlantCareApp/MobileApp/dotnet Maui/SmartPlantCare/Views/RegisterVerificationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SmartPlantCare.Views.RegisterVerificationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RegisterVerificationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RegisterVerificationPage.xaml

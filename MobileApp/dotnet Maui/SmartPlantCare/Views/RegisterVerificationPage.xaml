@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SmartPlantCare.Views.RegisterVerificationPage"
+             Title="RegisterVerificationPage"
+             Shell.NavBarIsVisible="False">
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Image Source="register_verification" HeightRequest="250" WidthRequest="250"/>
+            <VerticalStackLayout Spacing="5">
+                <Label Text="We sent you an email to verify your account" FontSize="28" TextColor="Black" HorizontalTextAlignment="Center" />
+            </VerticalStackLayout>
+
+            <Button Text="Check Your Email" FontSize="18" BackgroundColor="LimeGreen"
+                    x:Name="btnCheckEmail"
+                    Clicked="btnCheckEmail_Clicked"/>
+
+            <HorizontalStackLayout Spacing="50" HorizontalOptions="Center">
+                <Label Text="Already have an Account?" TextColor="Black"/>
+                <Button 
+                    Text="Login now" TextColor="LimeGreen" BackgroundColor="White" 
+                    x:Name="btnLogin"
+                    Clicked="btnLogin_Clicked"
+                />
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

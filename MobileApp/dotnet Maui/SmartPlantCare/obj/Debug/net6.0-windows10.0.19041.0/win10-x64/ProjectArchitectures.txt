@@ -1,0 +1,1 @@
+C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\SmartPlantCare.csproj;x64
