@@ -268,3 +268,7 @@ C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPla
 C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\forgot_password_image.png
 C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\register_image.png
 C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\register_verification.png
+C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\bell_icon.png
+C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\calander_icon.png
+C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\search_icon.png
+C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-ios\iossimulator-x64\resizetizer\r\Resources\temperature_icon.png

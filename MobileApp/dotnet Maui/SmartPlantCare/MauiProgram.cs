@@ -21,6 +21,7 @@ public static class MauiProgram
         Routing.RegisterRoute("registerVerification", typeof(RegisterVerificationPage));
         Routing.RegisterRoute("forgot", typeof(ForgotPasswordPage));
 		Routing.RegisterRoute("home", typeof(HomePlantPage));
+		Routing.RegisterRoute("addPlant", typeof(AddPlantPage));
 
         return builder.Build();
 	}

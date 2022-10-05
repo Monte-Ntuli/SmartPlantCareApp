@@ -928,6 +928,12 @@
     <AppxPackagedFile Include="C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\bell_icon.scale-100.png">
+      <PackagePath>bell_icon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calander_icon.scale-100.png">
+      <PackagePath>calander_icon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -954,6 +960,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\register_verification.scale-100.png">
       <PackagePath>register_verification.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\search_icon.scale-100.png">
+      <PackagePath>search_icon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\temperature_icon.scale-100.png">
+      <PackagePath>temperature_icon.scale-100.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

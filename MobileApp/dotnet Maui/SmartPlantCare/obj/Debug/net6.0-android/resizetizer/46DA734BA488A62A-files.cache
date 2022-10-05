@@ -1,7 +1,15 @@
-﻿obj\Debug\net6.0-android\resizetizer\r\drawable\forgot_password_image.png
+﻿obj\Debug\net6.0-android\resizetizer\r\drawable\bell_icon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\calander_icon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\calander_lime.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\forgot_password_image.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\login_image.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\register_image.png
 obj\Debug\net6.0-android\resizetizer\r\drawable\register_verification.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\search_icon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\sun_icon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\temperature_icon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\water_drop_icon.png
+obj\Debug\net6.0-android\resizetizer\r\drawable\wind_icon.png
 obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
 obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\splash.png
 obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png

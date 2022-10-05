@@ -348,3 +348,7 @@ C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPla
 C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\forgot_password_image.scale-100.png
 C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\register_image.scale-100.png
 C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\register_verification.scale-100.png
+C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\bell_icon.scale-100.png
+C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\calander_icon.scale-100.png
+C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\search_icon.scale-100.png
+C:\Users\E7240\Documents\GitHub\SmartPlantCareApp\MobileApp\dotnet Maui\SmartPlantCare\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\temperature_icon.scale-100.png

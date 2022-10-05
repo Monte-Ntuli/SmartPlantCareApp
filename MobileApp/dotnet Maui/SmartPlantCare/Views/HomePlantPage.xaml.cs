@@ -6,4 +6,9 @@ public partial class HomePlantPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+	private void btnAddPlant_Clicked(object sender, EventArgs e)
+	{
+        Shell.Current.GoToAsync("addPlant");
+    }
 }
